@@ -11,7 +11,7 @@ sends an email alert.
 This was inspired by (but is in no way affiliated with) Thinkst Canary who
 make awesome honeypot tools. They also offer free "canary tokens" here:
 https://canarytokens.org/generate but don't currently offer ssh canary tokens so
-I decided to roll iy own.
+I decided to roll my own.
 
 ## How it works
 
